@@ -16,7 +16,7 @@ for(i=0;i<=n;i++)
         document.write(ar[i]+"<br>")
       
  }*/
- //wap to add all 10 aliment 
+ //wap to add all 10 alement 
 
 /*var ar = [1,2,3,4,5,6,7,8,9,10]
 s = 0
@@ -32,7 +32,7 @@ for(i=0;i<10;i++)
 var ar = [ 10,9,8,7,6,5,4,3,2,1]
 for(i=0;i<=10;i++)
      {
-      if(ar[i%2!=0])
+      if(ar[i]%2!=0)
       {
           document.write(ar[i]);
       }

@@ -36,6 +36,6 @@ while(n<=15)
   for( n; n>0; n=n/10)
       {
         sum=sum+1;
-      alert(sum)
+      document.write(sum)
       
       }
