@@ -1,4 +1,4 @@
-// var ar = [1,2,4,5, ]
+// var ar = [1,2,4,5, 6]
 // for(i=0;i<5;i++)
 // {
 // console.log(ar[i])
