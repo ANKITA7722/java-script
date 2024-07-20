@@ -1,3 +1,4 @@
+//date:-8/07/2024
 /*let ob ={
     name: "ankita",
     age:21
@@ -27,14 +28,82 @@ console.log(ob)*/
 idea()*/
 //user difinetypes:-4
 // 1.without parameter/argument & no return value
+/*function demo(){
+    console.log("hello");
+}
+demo()*/
 // 2.without para &  return value:-
-function add(){
+/*function add(){
     let a= 10;
     let b= 5
     return a+b
-}
-//console.log(add())
-let p =add()
-console.log(p*p);
+}*/
+//1:-console.log(add())
+//2:-let p =add()
+//console.log(p*p);
 // 3.with para & no with return value
+/*function ankita(c)
+{
+    console.log(c)
+}
+var age=32;
+ankita(age)*/
 // 4.with para & with return value
+/*function demo(b)
+{
+    return b+b;
+}
+var a=10
+console.log(demo(a))*/
+
+//wap to take input frome user and print the table of that No. using function and no return value
+
+/*function table(n){
+   // let n = parseInt(prompt("enter any no."));
+for(let i=1; i<=10;i++)
+{
+        console.log(n*i)
+}
+}
+let n = parseInt(prompt("enter any no."));
+table(n)*/
+
+//wap   to take input from the user print  of the number using with argument and return value
+/*function cube(n){
+    return n*n*n
+}
+let n = parseInt(prompt("enter any no.")) 
+console.log(cube(n))*/
+function table(n){
+
+    if(n=>1 && n<=10)
+    {
+       for(let i=1;i<n;i++){
+        console.log(i)
+             }
+    }
+    else if( n>=11 && n<=20)
+    {
+        for(let i=20;i>=1;i--)
+        {
+            console.log(i)
+        }
+    }
+    else{
+        console.log("wrong value")
+    }
+}
+let n = parseInt(prompt("enter any no."));
+
+table(n);
+
+
+/* function demo(){
+ for(let i=1;i<=10;i++)
+ {
+     sum=sum+i;
+ }
+ return sum;
+ }
+let sum=0;
+console.log(demo())*/
