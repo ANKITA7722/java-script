@@ -74,7 +74,7 @@ table(n)*/
 }
 let n = parseInt(prompt("enter any no.")) 
 console.log(cube(n))*/
-function table(n){
+/*function table(n){
 
     if(n=>1 && n<=10)
     {
@@ -95,10 +95,10 @@ function table(n){
 }
 let n = parseInt(prompt("enter any no."));
 
-table(n);
+table(n);*/
 
 
-/* function demo(){
+ function demo(){
  for(let i=1;i<=10;i++)
  {
      sum=sum+i;
@@ -106,4 +106,4 @@ table(n);
  return sum;
  }
 let sum=0;
-console.log(demo())*/
+console.log(demo())
