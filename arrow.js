@@ -27,7 +27,14 @@ console.log(b(a))*/
 /*let a = 10
 let b = ()=>(a+a)
 console.log(b(a))*/ //or
-let a = 10
+/*let a = 10
 let b = ()=>{return a+a}
-console.log(b(a))
+console.log(b(a))*/
+
+let n =parseInt(prompt("enter any no."))
+let b= ()=>{for(let i=1;i<=10;i++){
+    return i*n }}
+    document.write(b(n))
+
+
 
