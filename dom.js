@@ -27,11 +27,14 @@ for (let i = 1; i <= 10; i++) {
     }
 }
 
-let heading = document.getElementById("main")
-heading.style.cssText = "background-color: red; color: white; padding: 30px";
+// let heading = document.getElementById("main")
+// heading.style.cssText = "background-color: red; color: white; padding: 30px";
 
-heading.innerHTML = "<u>oracle</u>"//changing element and text
-heading.innerText = "text change"//changing only text
+// heading.innerHTML = "<u>oracle</u>"//changing element and text
+// heading.innerText = "text change"//changing only text
 
-let image =document.getElementById("image1")
-image.src="whitehill.webp"//html ki pic ko change karne ke liye use karte hai
+// let image =document.getElementById("image1")
+// image.src="whitehill.webp"//html ki pic ko change karne ke liye use karte hai
+
+// set interwal:-
+setInterval(()=>{document.write(i++);},200)
