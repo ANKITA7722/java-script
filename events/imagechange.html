@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="/events/IMG-ankita.jpg" alt="" height="200px" onmouseenter="fun()">
+    <img src="/events/image.png" alt="" height="200px" onmouseenter="fun1()">
+    <div>
+        <img src="/events/IMG-ankita.jpg" alt="" height="200px" id="change_image">
+    </div>
+    <script>
+        function fun(){
+            let img = document.getElementById("change_image")
+            img.src="/events/IMG-ankita.jpg"
+        }
+        function fun1(){
+            let im = document.getElementById("change_image")
+            im.src="/events/53bae52d6a9749ffa6f4218964b82dd3_meeting.jpg"
+        }
+    </script>
+</body>
+</html>
