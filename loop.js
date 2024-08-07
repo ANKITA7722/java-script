@@ -16,14 +16,14 @@ while(n<=20)
   
 }*/
 //write a program to print squares of Numbers beetwin 15 to 1
-/*let n = 1;
+let n = 1;
 while(n<=15)
 {
      document.write(n*n+"<br>")
 
    n--;
   
-}*/
+}
 //for loop:
 
 /*for( let n=1; n<=10; n++)
@@ -31,11 +31,11 @@ while(n<=15)
     alert(n+"<br>")
     }*/
   //  write a program to print a table 1 to 10 
-  let n = parseInt(prompt("enter any no."))
-  let sum;
-  for( n; n>0; n=n/10)
+  /*let n = parseInt(prompt("enter any no."))
+  let sum =0;
+  while(  ; n>0; n=n/10)
       {
         sum=sum+1;
-      document.write(sum)
+      document.write(sum);
       
-      }
+      }*/

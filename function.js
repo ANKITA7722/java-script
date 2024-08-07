@@ -4,9 +4,11 @@
 //let ar = [1,2,3,4,5]
 //push:-last me print karega
 // document.write(ar.push(6,7,8,9))
+
 /*2:-add element  
 ar.unshift("ankita")
 document.write(ar)*/
+
 /*3:-ar.shift("ankita"):-remove first element
 document.write(ar)*/
 /*ar.pop():-remove last element

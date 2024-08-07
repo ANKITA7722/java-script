@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <form action="" onsubmit="return data()">
+        <label for="">num 1</label>
+        <input type="text" name="" id="num1">
+        <br><br>
+        <label for="">num 2</label>
+        <input type="text" name="" id="num2">
+        <br><br>
+        <input type="submit">
+    </form> 
+
+    <h1 id="result">result=</h1>
+    <script>
+        function data(){
+    let number1 = parseInt(document.getElementById("num1").value);
+    let number2 = parseInt(document.getElementById("num2").value);
+    let resutl = number1*number2;
+         document.getElementById("result").innerHTML=resutl  
+         return false ;//ye value ko rokne ke liye use hota hai                                                
+          }
+    </script>
+</body>
+</html>
