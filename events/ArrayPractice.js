@@ -1,5 +1,6 @@
 //MAP function:-date:5/8/2024/day:-monday
 //1.map:-kisi data ko fatch karke new array me store karata hai
+//its return only true false 
 
 /*let arr =[1,2,3,4,5];
 for(let  i=0;i<5 ;i++){

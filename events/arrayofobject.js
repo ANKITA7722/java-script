@@ -22,11 +22,13 @@ console.log(employee[0])*/
 /*let data = employee.filter((e)=>{return e.emp_age>22} )
 console.log(data)*/
 //function ka use :-
-let ob = {emp_name:"sharjin",emp_age:25}
-/*employee.push(ob)
-console.log(employee.push(ob))*/
+ let ob = {emp_name:"sharjin",emp_age:25}
+// employee.push(ob)
+// console.log(employee)
 
-//employee.pop(ob)
-//console.log(employee.pop(ob))
-employee.slice(ob)
-console.log(employee.slice(ob))
+// employee.pop()
+// console.log(employee)
+
+//console.log(employee.slice(0,1))
+employee.slice(0,1)
+console.log(employee.slice(4,5))

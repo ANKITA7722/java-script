@@ -4,8 +4,6 @@
 //         clearInterval(fun)
 //     }
 //     document.write(a++);
-// },200)
-
 
 //setTimeout(()=>{alert("this working")},200)
 
