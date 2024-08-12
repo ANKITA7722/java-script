@@ -14,5 +14,4 @@ x = Math.min()*100;
 x = Math.floor(Math.random()*100);
 console.log(x);
 // alert(x);
-
 document.getElementById("demo").innerHTML = x;
