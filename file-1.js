@@ -4,11 +4,10 @@
 //     let ind = parseInt(prompt("press 1 for india"))
 //     if(ind==1)
 //     {
-//         alert("eligible");
-// } 
-// else{
+ //        alert("eligible");
+//     } else{
 //     alert("not eligible");
-// } 
+//           } 
 // }
 // else
 // {
@@ -22,7 +21,6 @@
 
 /*var n = parseInt(prompt("enter any no"))
 switch (n) {
-
     case 1:
         alert("devendra");
         break;
@@ -52,7 +50,7 @@ switch (n) {
 //question-3
 /*var a = parseInt(prompt("enter any no"))
 var b = parseInt(prompt("enter any no"))
-var  c = parseInt(prompt("select 1 for * and 2 for  and 3 for devide nd 4 for substaraction"))
+var  c = parseInt(prompt("select 1 for multipication and 2 for addtion  and 3 for devide and 4 for substaraction"))
 switch (c) {
 
     case 1:
@@ -75,32 +73,30 @@ switch (c) {
 /*var n = 1;
 do
 {
-   
    document.write (n);
    n++;
 }
 while(n<=10);*/
 
 //write a program to print the table
-var n = 10;
-
-/*do
+/*var n = 10;
+do
 {
-   
    document.write (n);
    n--//;
 }
 while(n>=1);*/
 
 
-var n = 10;
+/*var n = 10;
+m = 2;
 do
 {
    
-   document.write (n*m);
-   m--//;
+   console.log(n*m);
+   n--;
 }
-while(m>=1);
+while(n>=1);*/
 
 
 

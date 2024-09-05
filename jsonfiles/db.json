@@ -1,0 +1,7 @@
+{
+    "student":[
+        {"id" : 1, "name" : "ankita", "cource" : "fruntend"},
+        {"id" : 1, "name" : "khushi", "cource" : "backend"},
+        {"id" : 1, "name" : "ankit", "cource" : "fullstack"}
+    ]
+}

@@ -4,12 +4,14 @@
 //         clearInterval(fun)
 //     }
 //     document.write(a++);
+// })
 
-//setTimeout(()=>{alert("this working")},200)
+// setTimeout(()=>{alert("this working")},200)
 
-/*let date = new Date()
+
+let date = new Date()
 console.log(date.toLocaleTimeString());
-console.log(date.toLocaleDateString());*/
+console.log(date.toLocaleDateString());
 setInterval(()=>{
 let date = new Date()
 let timee = date.toLocaleTimeString()

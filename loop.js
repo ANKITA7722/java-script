@@ -4,6 +4,7 @@ while(n<=10)
    document.write(n+"<br>")
    n++;
 }*/
+
 //write a program to print odd Number beetwen 1 to 20 using while loop
  /* let n = 1;
 while(n<=20)
@@ -25,12 +26,18 @@ while(n<=15)
   
 }
 //for loop:
-
 /*for( let n=1; n<=10; n++)
     {
     alert(n+"<br>")
     }*/
+
+
   //  write a program to print a table 1 to 10 
+for(let i=1;i<=10; i++)
+{
+   console.log(i)
+}
+
   /*let n = parseInt(prompt("enter any no."))
   let sum =0;
   while(  ; n>0; n=n/10)

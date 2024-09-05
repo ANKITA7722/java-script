@@ -9,9 +9,9 @@ let emp = {
         alert("function callig")
     },
     accountdetails:{
-bank_name:"state bank",
-        account_no:"123321" 
-       }
+    bank_name:"state bank",
+    account_no:"123321" 
+    }
 } 
 //document.write(emp.accountdetails.bank_name)
 console.log(emp.array[2])

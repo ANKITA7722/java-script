@@ -1,9 +1,10 @@
 //function:-kisi bhi kam ko bar bar  karna hai to function ka use karte hai
 //1.user define,
 //2.predefine function
-//let ar = [1,2,3,4,5]
+let ar = [1,2,3,4,5]
 //push:-last me print karega
-// document.write(ar.push(6,7,8,9))
+//ar.push(6,7,8,9)
+ //document.write(ar)
 
 /*2:-add element  
 ar.unshift("ankita")
@@ -20,8 +21,8 @@ document.write(ar)*/
  document.write(pt)*/
 //splice:-new function jo bich ka part hataya usko dubara la bhi sakte hai
 //Element ko hatake add on karta hai
-let ar = [1,2,3,4,5,6,7,8]
- let pt = ar.splice(2,5,"ankita",2,3,4)
- document.write(ar)
+//let ar = [1,2,3,4,5,6,7,8]
+// let pt = ar.splice(2,5,"ankita",2,3,4)
+ //document.write(ar)
 
 

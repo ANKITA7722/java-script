@@ -22,7 +22,8 @@ console.log(array.at(3));
 
 (array.push("maruti"));
 console.log(array)//output:-['BMW', 'FORD', 'TATA', 'SUZUKI', 'TOYOTO', 'maruti']
-//1.tostring:-its conword to string formate add on , also
+
+//1.tostring:-its conword to string formate add on (,) also
 const stringArr = array.toString();
 console.log(stringArr);
 //2.join:-its define to what we want to seprated example:-space,star(*).....
