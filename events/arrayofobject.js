@@ -19,8 +19,8 @@ let employee = [
 console.log(employee[0])*/
 
 //filter function ka use
-/*let data = employee.filter((e)=>{return e.emp_age>22} )
-console.log(data)*/
+// let data = employee.filter((e)=>{return e.emp_age>22} )
+//console.log(data)
 //function ka use :-
  let ob = {emp_name:"sharjin",emp_age:25}
 // employee.push(ob)
@@ -32,3 +32,5 @@ console.log(data)*/
 //console.log(employee.slice(0,1))
 employee.slice(0,1)
 console.log(employee.slice(4,5))
+// document.getElementById("demo").innerHTML=employee.slice(0,1);
+document.getElementById("demo").innerHTML=data

@@ -16,9 +16,9 @@
 //         //console.log(ar[i])
 //         document.write(ar[i]+"<br>")
       
-//  }
+//   }
 
-
+// ======================================================================
  //wap to add all 10 alement 
 // var ar = [1,2,3,4,5,6,7,8,9,10]
 // sum = 0;
@@ -30,7 +30,7 @@
 //  }
 //  document.write(sum);
 
-
+//=========================================================================
  //wap to print odd nu. in 20 to 1 using array
  
 // var ar = [ 10,9,8,7,6,5,4,3,2,1]
@@ -43,18 +43,18 @@
       
 //  }
 
- /*1.  var ar = [ 10,9,8,7,6,5,4,3,2,1]
-//for of
-for(let v of ar)
-     {
+ //1.for of
+//  var ar = [ 10,9,8,7,6,5,4,3,2,1]
+// for(let v of ar)
+//      {
      
-          document.write(v);    
- }
+//           document.write(v);    
+//  }
 
- 2. var ar = [ 10,9,8,7,6,5,4,3,2,1]
-//for in
-for(let v in ar)
-     {
+//  2.for of
+//  var ar = [ 10,9,8,7,6,5,4,3,2,1]
+// for(let v in ar)
+//      {
      
-          document.write(v);    
- }*/
+//           document.write(v);    
+//  }

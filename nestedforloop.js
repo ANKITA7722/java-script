@@ -16,7 +16,7 @@
 
 //  let n = 29;
 //  (n<=15)?document.write("great"):document.write("small");
-//write a program to check  number is even or odd
+//  write a program to check  number is even or odd
 //  let n = parseInt(prompt("enter any no."));
 // (n%2==0)?console.long("even"):console.long("odd");
 

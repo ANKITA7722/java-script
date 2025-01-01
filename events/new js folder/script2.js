@@ -12,23 +12,24 @@
 //topic array:-
 // unshift and push mathod of array returns the length of the updated array
 // push adds element to the and of array and unshift adds element to the StaticRange
-// pop and shift mathode returns the value thet id deleted
-// pop mathod deleteS an element from the end
+// pop mathod deletes an element from the end
 // shift mathod deletes an element from the start
-const array = ["BMW", "FORD", "TATA",'SUZUKI',"TOYOTO"];
-console.log(array);
-console.log(array[3]);//or
-console.log(array.at(3));
+// const array = ["BMW", "FORD", "TATA",'SUZUKI',"TOYOTO"];
+// console.log(array);
+// console.log(array[3]);//or
+// console.log(array.at(3));
 
-(array.push("maruti"));
-console.log(array)//output:-['BMW', 'FORD', 'TATA', 'SUZUKI', 'TOYOTO', 'maruti']
-
-//1.tostring:-its conword to string formate add on (,) also
-const stringArr = array.toString();
-console.log(stringArr);
-//2.join:-its define to what we want to seprated example:-space,star(*).....
-const myArray = array.join("*");
-console.log(myArray);
+// (array.push("maruti"));
+// console.log(array)//output:-['BMW', 'FORD', 'TATA', 'SUZUKI', 'TOYOTO', 'maruti']
+// document.getElementById("demo").innerHTML=array;
+// //1.tostring:-its conword to string formate add on (,) also
+// const stringArr = array.toString();
+// console.log(stringArr);
+// document.getElementById("demo").innerHTML=array;
+// //2.join:-its define to what we want to seprated example:-space,star(*).....
+// const myArray = array.join("*");
+// console.log(myArray);
+// document.getElementById("demo").innerHTML=array;
 
 
 

@@ -1,4 +1,4 @@
-// let x = Math.sqrt(9);//squre  returns squre rootof  a number
+// let x = Math.sqrt(9);//squre  returns squre root of  a number
 // x = math.sign(787);//sign returns 1 if number is positive -1 if number is returns is nagative,
 // //0 of number is 0.
 // x = Math.pow(4,3);//return power of a number (number,power)
@@ -12,6 +12,6 @@
 x = Math.random();//random number between 0(inclusive)and 1(exclusive)
 x = Math.min()*100;
 x = Math.floor(Math.random()*100);
-console.log(x);
+// console.log(x);
 // alert(x);
 document.getElementById("demo").innerHTML = x;
